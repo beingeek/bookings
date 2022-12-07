@@ -1,26 +1,25 @@
 {
- "category": "Modules",
  "charts": [],
- "creation": "2022-12-04 14:11:22.846866",
- "developer_mode_only": 0,
- "disable_user_customization": 1,
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Room Management\"}}]",
+ "creation": "2022-12-07 22:26:09.871123",
  "docstatus": 0,
  "doctype": "Workspace",
- "extends_another_page": 0,
+ "for_user": "",
  "hide_custom": 0,
+ "icon": "project",
  "idx": 0,
- "is_default": 0,
- "is_standard": 1,
  "label": "Room Management",
  "links": [],
- "modified": "2022-12-05 18:35:00.628440",
+ "modified": "2022-12-07 22:28:51.670504",
  "modified_by": "Administrator",
  "module": "Room Management",
  "name": "Room Management",
- "onboarding": "",
  "owner": "Administrator",
- "pin_to_bottom": 0,
- "pin_to_top": 0,
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 21.0,
  "shortcuts": [
   {
    "doc_view": "List",
@@ -101,5 +100,5 @@
    "type": "DocType"
   }
  ],
- "shortcuts_label": "Bookings"
+ "title": "Room Management"
 }
