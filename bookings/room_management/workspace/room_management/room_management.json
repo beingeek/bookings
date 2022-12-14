@@ -1,16 +1,16 @@
 {
  "charts": [],
- "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Room Management\"}}]",
- "creation": "2022-12-07 22:26:09.871123",
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Room Management</span>\",\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Rooms\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Rates\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Extras\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Teams\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Floor\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"House Keeping\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Brand Name\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Vehicle Type\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Room Booking\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Room Order\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"House Keeping\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Seasons\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Seasons\",\"col\":3}}]",
+ "creation": "2022-12-14 11:00:02.091080",
  "docstatus": 0,
  "doctype": "Workspace",
  "for_user": "",
  "hide_custom": 0,
- "icon": "project",
+ "icon": "project-2",
  "idx": 0,
  "label": "Room Management",
  "links": [],
- "modified": "2022-12-07 22:28:51.670504",
+ "modified": "2022-12-14 11:06:52.561202",
  "modified_by": "Administrator",
  "module": "Room Management",
  "name": "Room Management",
@@ -22,81 +22,91 @@
  "sequence_id": 21.0,
  "shortcuts": [
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Rooms",
    "link_to": "Rooms",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Rates",
    "link_to": "Rates",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Extras",
    "link_to": "Extras",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Teams",
    "link_to": "Teams",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Floor",
    "link_to": "Floor",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
-   "doc_view": "List",
-   "label": "House Keeping",
-   "link_to": "House Keeping",
-   "type": "DocType"
-  },
-  {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Brand Name",
    "link_to": "Brand Name",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Vehicle Type",
    "link_to": "Vehicle Type",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Room Booking",
    "link_to": "Room Booking",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Room Order",
    "link_to": "Room Order",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "House Keeping",
    "link_to": "House Keeping",
+   "stats_filter": "",
    "type": "DocType"
   },
   {
+   "color": "Grey",
    "doc_view": "List",
    "label": "Seasons",
    "link_to": "Seasons",
-   "type": "DocType"
-  },
-  {
-   "doc_view": "List",
-   "label": "Block",
-   "link_to": "Block",
+   "stats_filter": "",
    "type": "DocType"
   }
  ],
